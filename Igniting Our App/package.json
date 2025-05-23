@@ -1,0 +1,35 @@
+{
+  "name": "igniting-our-app",
+  "version": "1.0.0",
+  "description": "this is react course consumer",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyanshuPathakk/NamasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Priyanshu Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PriyanshuPathakk/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/PriyanshuPathakk/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist" : [
+    "last 2 chrome version",
+    "last 3 firefox version"
+  ]
+
+  
+}
